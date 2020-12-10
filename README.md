@@ -1,3 +1,3 @@
 # hello-world
 Get started using github:)
-Getting started is a half of all.
+Looking a bit complicated, but let's do this.
